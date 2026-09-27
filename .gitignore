@@ -1,0 +1,8 @@
+.idea/
+课程：二十篇cns文章pdf/
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+outputs/
+
